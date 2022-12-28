@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js && npm run build"
+    "start": "nodemon server.js && npm run build",
+    "build-only": "vite build"
   },
   "keywords": [],
   "author": "",
